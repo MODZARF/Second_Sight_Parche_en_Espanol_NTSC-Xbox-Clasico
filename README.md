@@ -55,10 +55,9 @@ Tienes 2 opciones:
 
 Solo funciona con estas 3 rutas:
 
-> 
-E:/games/Second Sight
-F:/games/Second Sight
-G:/games/Second Sight
+- E:/games/Second Sight
+- F:/games/Second Sight
+- G:/games/Second Sight
 
 ---
 
