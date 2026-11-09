@@ -1,9 +1,14 @@
 # 🎮 Second Sight - Parche en Español NTSC
-### Para Xbox Clásico
+### Para Xbox Clásico y Xbox 360 por retrocompatibilidad
 
 Herramienta en **Python** para que el juego **Second Sight** cargue el idioma **español por defecto** en la región **NTSC**.
 
 > ⚠️ **Solo textos.** El juego no incluye audio en español, por eso recuerda activar los **subtítulos** en opciones, que por defecto vienen desactivados.
+
+---
+
+### ⚠️ Nota para Xbox 360
+Es necesario usar un archivo config que corrige la compatibilidad del control para que el juego funcione correctamente.
 
 ---
 
