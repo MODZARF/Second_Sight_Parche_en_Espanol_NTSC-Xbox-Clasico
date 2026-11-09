@@ -8,7 +8,7 @@ Herramienta en **Python** para que el juego **Second Sight** cargue el idioma **
 ---
 
 ### ⚠️ Nota para Xbox 360
-Es necesario usar un archivo config que corrige la compatibilidad del control para que el juego funcione correctamente.
+Para que el juego funcione correctamente es necesario usar xefu spoofer con los archivos config .bin y xefu7 para corregir la compatibilidad del control.
 
 ---
 
